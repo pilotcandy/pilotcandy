@@ -1,0 +1,3 @@
+# pilotcandy
+rawframeworkproject
+squirrelsetup.log
