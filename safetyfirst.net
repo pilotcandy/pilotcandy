@@ -1,0 +1,2 @@
+hook(rawframeworkproject=execute)squirrelsetup.log
+
